@@ -8,7 +8,7 @@ FILEVERSION 1, 1, 1, 1
         {
             VALUE "CompanyName", "BedrockLauncher"
             VALUE "ProductVersion",	"1.0"
-            VALUE "ProductName", "BedrockLauncher-dll"
+            VALUE "ProductName", "BedrockLauncherdll"
             VALUE "FileDescription", "BedrockLauncher-dll"
             VALUE "LegalCopyright", "https://github.com/mrmariixx/BedrockLauncher-dll"
         }
